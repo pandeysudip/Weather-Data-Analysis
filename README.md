@@ -51,9 +51,9 @@ Used weather data to plan future vacations. Used jupyter-gmaps and the Google Pl
 
  
 
-* Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
+* Used Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
-* Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
+* Humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
   ![hotel map](Images/map.png)
 
