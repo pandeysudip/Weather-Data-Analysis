@@ -34,7 +34,7 @@ Performed a linear regression on each relationship. Also separated the plots int
 
 ### Part II - VacationPy
 
-Used weather data to plan future vacations. Used jupyter-gmaps and the Google Places API for this part.
+Used weather data to plan future vacations using jupyter-gmaps and the Google Places API for this part.
 
 
 * Created a heat map that displays the humidity for every city from Part I.
